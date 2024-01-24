@@ -25,14 +25,14 @@ Examine if there's a discernible pattern in war initiation and conclusion by Dem
 
 ## Visuals and Analysis
 
-- [Graph] Presidents' political affiliation at war start.
-- [Graph] Timeline of wars and political affiliation.
-- [Graph] Bar graph of wars started and ended by each party.
+- ![Graph1](Images/Graph1.jpg) Presidents' political affiliation at war start.
+- ![Graph2](Images/Graph2.jpg) Timeline of wars and political affiliation.
+- ![Graph3](Images/Graph3.jpg) Bar graph of wars started and ended by each party.
 
 ### Statistical Analysis
 
 - Probability calculation: P(D) and P(R).
-- [Pie Chart] Statistical findings.
+- ![Pie Chart](Images/wpc2.jpg) Statistical findings.
 
 ### Conclusion
 
