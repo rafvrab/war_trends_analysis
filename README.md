@@ -32,7 +32,7 @@ Examine if there's a discernible pattern in war initiation and conclusion by Dem
 ### Statistical Analysis
 
 - Probability calculation: P(D) and P(R).
-- ![Pie Chart](Images/wpc2.jpg) Statistical findings.
+- ![Pie Chart](Images/wpc1.jpg) Statistical findings.
 
 ### Conclusion
 
